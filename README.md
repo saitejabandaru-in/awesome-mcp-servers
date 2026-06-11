@@ -354,6 +354,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Access to research papers, genetic data, and specialized datasets.
 
 - <img src="https://cdn.simpleicons.org/arxiv/B31B1B" height="14"/> [ArXiv](https://github.com/blazickjp/arxiv-mcp-server) - Search ArXiv research papers
+- <img src="https://api.iconify.design/mdi:book-search.svg?color=%234285F4" height="14"/> [papersearch-mcp](https://github.com/saitejabandaru-in/papersearch-mcp) - Search, retrieve details, and extract full PDF layout text from academic papers via arXiv and Semantic Scholar APIs.
 - <img src="https://api.iconify.design/mdi:dna.svg?color=%23E34234" height="14"/> [Ancestry](https://github.com/reeeeemo/ancestry-mcp) - Read .ged files and genetic data
 - <img src="https://probe.dev/favicon.ico" height="14"/> [Probe.dev](https://mcp.probe.dev) - Professional media analysis and validation MCP server with FFprobe, MediaInfo, and comprehensive reporting capabilities
 - <img src="https://cdn.simpleicons.org/apple/7ED957" height="14"/> [OpenNutrition](https://github.com/deadletterq/mcp-opennutrition) - Search 300,000+ foods, nutrition facts, and barcodes from the OpenNutrition database
